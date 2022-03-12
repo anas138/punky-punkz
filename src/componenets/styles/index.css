@@ -1,0 +1,12 @@
+.team{
+    height: 100vh;
+  }
+  .home{
+    height: 100vh;
+  }
+  .roadmap{
+    height: 100vh;
+  }
+  
+  
+ @import url("./home.css");
